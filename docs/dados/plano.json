@@ -1,0 +1,1800 @@
+{
+ "gerado_em": "2026-09-01",
+ "aluno": "GM Maricá",
+ "familias": {
+  "portugues": {
+   "cor": "#1A6B3A",
+   "rotulo": "Língua Portuguesa"
+  },
+  "logica": {
+   "cor": "#0A4080",
+   "rotulo": "Lógica e Informática"
+  },
+  "direito": {
+   "cor": "#7B2D00",
+   "rotulo": "Direito Base"
+  },
+  "penal": {
+   "cor": "#5C0A0A",
+   "rotulo": "Direito Penal/Proc."
+  },
+  "legGM": {
+   "cor": "#1C4966",
+   "rotulo": "Legislação GM"
+  },
+  "legExt": {
+   "cor": "#3D6B0A",
+   "rotulo": "Legislação Extravagante"
+  }
+ },
+ "materias": {
+  "Língua Portuguesa": {
+   "familia": "portugues",
+   "barra": "#1A6B3A",
+   "tinta": "#E8F5ED",
+   "tinta2": "#0F4A27",
+   "texto": "Português"
+  },
+  "Raciocínio Lógico": {
+   "familia": "logica",
+   "barra": "#0A4080",
+   "tinta": "#E5EEF8",
+   "tinta2": "#052650",
+   "texto": "Lógica"
+  },
+  "Noções de Informática": {
+   "familia": "logica",
+   "barra": "#2B6CB0",
+   "tinta": "#E8F0FB",
+   "tinta2": "#1A3F6A",
+   "texto": "Informática"
+  },
+  "Direito Constitucional": {
+   "familia": "direito",
+   "barra": "#7B2D00",
+   "tinta": "#F8EDE8",
+   "tinta2": "#4A1A00",
+   "texto": "D. Const."
+  },
+  "Direito Administrativo": {
+   "familia": "direito",
+   "barra": "#A03B00",
+   "tinta": "#FBF0E8",
+   "tinta2": "#6B2700",
+   "texto": "D. Adm."
+  },
+  "Direito Penal": {
+   "familia": "penal",
+   "barra": "#5C0A0A",
+   "tinta": "#F5E8E8",
+   "tinta2": "#3A0606",
+   "texto": "D. Penal"
+  },
+  "Direito Proc. Penal": {
+   "familia": "penal",
+   "barra": "#7A1414",
+   "tinta": "#F8EBEB",
+   "tinta2": "#4E0C0C",
+   "texto": "D.P.P."
+  },
+  "Legislação GM": {
+   "familia": "legGM",
+   "barra": "#1C4966",
+   "tinta": "#E6EFF5",
+   "tinta2": "#0E2D40",
+   "texto": "Leg. GM"
+  },
+  "Direitos Humanos": {
+   "familia": "legGM",
+   "barra": "#1A5C7A",
+   "tinta": "#E5F2F8",
+   "tinta2": "#0D3A4E",
+   "texto": "D. Humanos"
+  },
+  "Legislação Extravagante": {
+   "familia": "legExt",
+   "barra": "#3D6B0A",
+   "tinta": "#EDF5E5",
+   "tinta2": "#254208",
+   "texto": "Leg. Ext."
+  }
+ },
+ "ordem": [
+  "Língua Portuguesa",
+  "Raciocínio Lógico",
+  "Noções de Informática",
+  "Direito Constitucional",
+  "Direito Administrativo",
+  "Direito Penal",
+  "Direito Proc. Penal",
+  "Legislação GM",
+  "Direitos Humanos",
+  "Legislação Extravagante"
+ ],
+ "dias": [
+  "Segunda",
+  "Terça",
+  "Quarta",
+  "Quinta",
+  "Sexta",
+  "Sábado",
+  "Domingo"
+ ],
+ "marcos": [
+  {
+   "nome": "Início dos estudos",
+   "data": "2026-09-01",
+   "tag": null,
+   "acao": "Começar a FASE 1"
+  },
+  {
+   "nome": "Fim Fase 1 BASE",
+   "data": "2026-11-30",
+   "tag": null,
+   "acao": "Virada para a FASE 2"
+  },
+  {
+   "nome": "Fim Fase 2 APROFUNDAR",
+   "data": "2027-01-31",
+   "tag": null,
+   "acao": "Virada para a FASE 3"
+  },
+  {
+   "nome": "Fim Fase 3 SIMULADOS",
+   "data": "2027-03-31",
+   "tag": null,
+   "acao": "Virada para a FASE 4"
+  },
+  {
+   "nome": "PROVA ESTIMADA GM Maricá",
+   "data": "2027-05-10",
+   "tag": "GM",
+   "acao": "Dia D"
+  }
+ ],
+ "carga": [
+  {
+   "materia": "Língua Portuguesa",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Segunda 21h"
+  },
+  {
+   "materia": "Noções de Informática",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Segunda 22h"
+  },
+  {
+   "materia": "Raciocínio Lógico",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Terça 21h"
+  },
+  {
+   "materia": "Legislação GM",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Terça 22h"
+  },
+  {
+   "materia": "Direito Penal",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Quarta 21h"
+  },
+  {
+   "materia": "Direito Proc. Penal",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Quarta 22h"
+  },
+  {
+   "materia": "Direito Constitucional",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Quinta 21h"
+  },
+  {
+   "materia": "Direito Administrativo",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Quinta 22h"
+  },
+  {
+   "materia": "Direitos Humanos",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Sexta 21h"
+  },
+  {
+   "materia": "Legislação Extravagante",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Sexta 22h"
+  }
+ ],
+ "fases": [
+  {
+   "nome": "FASE 1 · BASE",
+   "periodo": "Set–Nov/26",
+   "muda": "Comece a estudar tudo uma vez.",
+   "porque": "Construção base de conhecimento"
+  },
+  {
+   "nome": "FASE 2 · APROFUNDAR",
+   "periodo": "Dez/26–Jan/27",
+   "muda": "Revisão + banco de questões.",
+   "porque": "Consolidação + prática"
+  },
+  {
+   "nome": "FASE 3 · SIMULADOS",
+   "periodo": "Fev–Mar/27",
+   "muda": "1 simulado por sábado.",
+   "porque": "Treino de prova real"
+  },
+  {
+   "nome": "FASE 4 · RETA FINAL",
+   "periodo": "Abr–Mai/27",
+   "muda": "Revisão total + TAF intensivo + descanso.",
+   "porque": "Pico de performance"
+  }
+ ],
+ "grade": [
+  {
+   "h": "05:30–08:00",
+   "dur": "150",
+   "tipo": "rest",
+   "dias": [
+    "☀ Acordar e café",
+    "☀ Acordar e café",
+    "☀ Acordar e café",
+    "☀ Acordar e café",
+    "☀ Acordar e café",
+    "🌙 Descanso",
+    "🌙 Descanso"
+   ],
+   "cores": [
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "08:00–16:00",
+   "dur": "480",
+   "tipo": "rest",
+   "dias": [
+    "Trabalho",
+    "Trabalho",
+    "Trabalho",
+    "Trabalho",
+    "Trabalho",
+    "📝 REVISÃO GERAL",
+    "🌙 Descanso"
+   ],
+   "cores": [
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "16:00–17:00",
+   "dur": "60",
+   "tipo": "rest",
+   "dias": [
+    "🚌 Locomoção",
+    "🚌 Locomoção",
+    "🚌 Locomoção",
+    "🚌 Locomoção",
+    "🚌 Locomoção",
+    "📝 REVISÃO GERAL",
+    "🌙 Descanso"
+   ],
+   "cores": [
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "17:00–18:00",
+   "dur": "60",
+   "tipo": "rest",
+   "dias": [
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "— descanso —",
+    "🌙 Descanso"
+   ],
+   "cores": [
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "18:00–19:00",
+   "dur": "60",
+   "tipo": "trn",
+   "dias": [
+    "🥋 Luta",
+    "🥋 Luta",
+    "🥋 Luta",
+    "🥋 Luta",
+    "🥋 Luta",
+    "— descanso —",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "19:00–20:00",
+   "dur": "60",
+   "tipo": "rest",
+   "dias": [
+    "🧹 Rotina de casa",
+    "🧹 Rotina de casa",
+    "🧹 Rotina de casa",
+    "🧹 Rotina de casa",
+    "🧹 Rotina de casa",
+    "— descanso —",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#F5F5F5",
+     "fg": "#888888",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "20:00–21:00",
+   "dur": "60",
+   "tipo": "meal",
+   "dias": [
+    "🍽 Jantar",
+    "🍽 Jantar",
+    "🍽 Jantar",
+    "🍽 Jantar",
+    "🍽 Jantar",
+    "🍽 Jantar",
+    "🍽 Jantar"
+   ],
+   "cores": [
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#FBF4E8",
+     "fg": "#7A5A00",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "21:00–22:00",
+   "dur": "60",
+   "tipo": "blk",
+   "dias": [
+    "Língua Portuguesa",
+    "Raciocínio Lógico",
+    "Direito Penal",
+    "Direito Constitucional",
+    "Direitos Humanos",
+    "— descanso —",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "#E8F5ED",
+     "fg": "#1A6B3A",
+     "bold": true,
+     "materia": "Língua Portuguesa"
+    },
+    {
+     "bg": "#E5EEF8",
+     "fg": "#0A4080",
+     "bold": true,
+     "materia": "Raciocínio Lógico"
+    },
+    {
+     "bg": "#F5E8E8",
+     "fg": "#5C0A0A",
+     "bold": true,
+     "materia": "Direito Penal"
+    },
+    {
+     "bg": "#F8EDE8",
+     "fg": "#7B2D00",
+     "bold": true,
+     "materia": "Direito Constitucional"
+    },
+    {
+     "bg": "#E5F2F8",
+     "fg": "#1A5C7A",
+     "bold": true,
+     "materia": "Direitos Humanos"
+    },
+    {
+     "bg": "",
+     "fg": "",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "",
+     "fg": "",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "22:00–23:00",
+   "dur": "60",
+   "tipo": "blk",
+   "dias": [
+    "Noções de Informática",
+    "Legislação GM",
+    "Direito Proc. Penal",
+    "Direito Administrativo",
+    "Legislação Extravagante",
+    "— descanso —",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "#E8F0FB",
+     "fg": "#2B6CB0",
+     "bold": true,
+     "materia": "Noções de Informática"
+    },
+    {
+     "bg": "#E6EFF5",
+     "fg": "#1C4966",
+     "bold": true,
+     "materia": "Legislação GM"
+    },
+    {
+     "bg": "#F8EBEB",
+     "fg": "#7A1414",
+     "bold": true,
+     "materia": "Direito Proc. Penal"
+    },
+    {
+     "bg": "#FBF0E8",
+     "fg": "#A03B00",
+     "bold": true,
+     "materia": "Direito Administrativo"
+    },
+    {
+     "bg": "#EDF5E5",
+     "fg": "#3D6B0A",
+     "bold": true,
+     "materia": "Legislação Extravagante"
+    },
+    {
+     "bg": "",
+     "fg": "",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "",
+     "fg": "",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "23:00–05:30",
+   "dur": "390",
+   "tipo": "sleep",
+   "dias": [
+    "🌙 Sono",
+    "🌙 Sono",
+    "🌙 Sono",
+    "🌙 Sono",
+    "🌙 Sono",
+    "🌙 Sono",
+    "🌙 Sono"
+   ],
+   "cores": [
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "#E8EDF5",
+     "fg": "#4A6080",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  }
+ ],
+ "meses": [
+  {
+   "mes": "Set/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Início do plano",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "Interpretação de texto, tipos textuais, ortografia, acentuação",
+     "meta": "Concluir tópicos 1–5"
+    },
+    {
+     "materia": "Raciocínio Lógico",
+     "conteudo": "Proposições lógicas, tabela-verdade, negação, equivalências",
+     "meta": "Concluir tópicos 1–3"
+    },
+    {
+     "materia": "Direito Constitucional",
+     "conteudo": "Princípios fundamentais, Art. 5º (direitos e deveres individuais)",
+     "meta": "Concluir tópicos 1–3"
+    },
+    {
+     "materia": "Noções de Informática",
+     "conteudo": "Conceitos básicos: hardware, software, sistemas operacionais",
+     "meta": "Concluir tópicos 1–2"
+    }
+   ]
+  },
+  {
+   "mes": "Out/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Aprofundando base",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "Concordância verbal/nominal, regência, pontuação, coesão e coerência",
+     "meta": "Concluir tópicos 6–10"
+    },
+    {
+     "materia": "Direito Administrativo",
+     "conteudo": "Princípios da Adm. Pública (LIMPE), atos, poderes e agentes",
+     "meta": "Concluir tópicos 1–4"
+    },
+    {
+     "materia": "Direito Penal",
+     "conteudo": "Teoria geral do crime, imputabilidade, crimes contra a vida",
+     "meta": "Concluir tópicos 1–4"
+    },
+    {
+     "materia": "Noções de Informática",
+     "conteudo": "Word, Excel básico, Internet, e-mail, segurança da informação",
+     "meta": "Concluir tópicos 3–5"
+    }
+   ]
+  },
+  {
+   "mes": "Nov/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Completando a base",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "Funções de linguagem, figuras de linguagem, semântica, morfologia",
+     "meta": "Concluir tópicos 11–15"
+    },
+    {
+     "materia": "Direito Proc. Penal",
+     "conteudo": "Inquérito policial, ação penal, prisão em flagrante, medidas cautelares",
+     "meta": "Concluir tópicos 1–4"
+    },
+    {
+     "materia": "Legislação GM",
+     "conteudo": "Lei 13.022/2014 (Estatuto GCM) completo, competências, vedações",
+     "meta": "Concluir todos os 5 tópicos"
+    },
+    {
+     "materia": "Direitos Humanos",
+     "conteudo": "Conceito, gerações de direitos, DUDH, tratados internacionais",
+     "meta": "Concluir tópicos 1–5"
+    }
+   ]
+  },
+  {
+   "mes": "Dez/26",
+   "fase": "FASE 2 · APROFUNDAR",
+   "marco": "Virada para questões",
+   "itens": [
+    {
+     "materia": "Direito Constitucional",
+     "conteudo": "Art. 144 (segurança pública), revisão geral + 200 questões",
+     "meta": "Meta: 70% de acerto"
+    },
+    {
+     "materia": "Direito Administrativo",
+     "conteudo": "Licitações básicas, contratos, responsabilidade civil + questões",
+     "meta": "Meta: 70% de acerto"
+    },
+    {
+     "materia": "Direito Penal",
+     "conteudo": "Crimes contra o patrimônio, Lei de Drogas resumo, revisão",
+     "meta": "Meta: 70% de acerto"
+    },
+    {
+     "materia": "Legislação Extravagante",
+     "conteudo": "ECA (pontos principais), Estatuto do Idoso, Lei Maria da Penha",
+     "meta": "Concluir tópicos 1–5"
+    }
+   ]
+  },
+  {
+   "mes": "Jan/27",
+   "fase": "FASE 2 · APROFUNDAR",
+   "marco": "Questões intensivo",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "Resolução de 300+ questões COSEAC/UFF e similares",
+     "meta": "Meta: 80% de acerto"
+    },
+    {
+     "materia": "Legislação Extravagante",
+     "conteudo": "Estatuto do Desarmamento, Lei Antidrogas, revisão geral",
+     "meta": "Concluir tópicos 6–10"
+    },
+    {
+     "materia": "Direito Proc. Penal",
+     "conteudo": "Revisão + questões: provas, nulidades, recursos",
+     "meta": "Concluir tópicos 5–6"
+    },
+    {
+     "materia": "Direitos Humanos",
+     "conteudo": "CF/88 + direitos humanos integrados, revisão completa",
+     "meta": "Concluir tópicos 6–10"
+    }
+   ]
+  },
+  {
+   "mes": "Fev/27",
+   "fase": "FASE 3 · SIMULADOS",
+   "marco": "Simulados semanais",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "1 simulado completo por sábado + revisão de erros na segunda",
+     "meta": "Meta: 8/10 em Português"
+    },
+    {
+     "materia": "Direito Penal",
+     "conteudo": "Revisão de fragilidades identificadas nos simulados",
+     "meta": "Meta: 4/5 em D. Penal"
+    },
+    {
+     "materia": "Direito Constitucional",
+     "conteudo": "Revisão focada no Art. 5º e Art. 144",
+     "meta": "Meta: 4/5 em D. Const."
+    },
+    {
+     "materia": "Legislação GM",
+     "conteudo": "Revisão da Lei 13.022/2014 + comparativos com CF/88",
+     "meta": "Domínio total"
+    }
+   ]
+  },
+  {
+   "mes": "Mar/27",
+   "fase": "FASE 3 · SIMULADOS",
+   "marco": "Ajuste de fragilidades",
+   "itens": [
+    {
+     "materia": "Legislação Extravagante",
+     "conteudo": "Revisão geral: ECA, Idoso, Maria da Penha, Drogas, Desarmamento",
+     "meta": "Meta: 6/7 em Leg. Ext."
+    },
+    {
+     "materia": "Raciocínio Lógico",
+     "conteudo": "Revisão de lógica proposicional + quantificadores + raciocínio",
+     "meta": "Meta: 4/5 em Lógica"
+    },
+    {
+     "materia": "Direito Administrativo",
+     "conteudo": "Revisão focada em agentes públicos, atos, improbidade",
+     "meta": "Meta: 4/5 em D. Adm."
+    },
+    {
+     "materia": "Direitos Humanos",
+     "conteudo": "Casos práticos, legislação integrada, simulados temáticos",
+     "meta": "Meta: 5/7 em Dir. Hum."
+    }
+   ]
+  },
+  {
+   "mes": "Abr/27",
+   "fase": "FASE 4 · RETA FINAL",
+   "marco": "Revisão total + TAF intensivo",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "Revisão express + resolução das questões com maior erro pessoal",
+     "meta": "Manter acima de 80%"
+    },
+    {
+     "materia": "Direito Penal",
+     "conteudo": "Revisão express — apenas os pontos marcados como fracos",
+     "meta": "Sem novas matérias"
+    },
+    {
+     "materia": "Legislação GM",
+     "conteudo": "Leitura integral da Lei 13.022/2014 + CF/88 Art. 144",
+     "meta": "Revisão intensiva"
+    },
+    {
+     "materia": "Legislação Extravagante",
+     "conteudo": "Revisão das leis extravagantes com flash cards",
+     "meta": "Meta final: 80% acerto"
+    }
+   ]
+  },
+  {
+   "mes": "Mai/27",
+   "fase": "FASE 4 · PICO",
+   "marco": "Semana da prova",
+   "itens": [
+    {
+     "materia": "Língua Portuguesa",
+     "conteudo": "Leitura leve, apenas revisão de regras gramaticais-chave",
+     "meta": "Manutenção — não forçar"
+    },
+    {
+     "materia": "Legislação GM",
+     "conteudo": "Leitura da Lei 13.022/2014 uma vez mais com calma",
+     "meta": "Consolidação final"
+    },
+    {
+     "materia": "Direito Constitucional",
+     "conteudo": "Revisão dos artigos mais cobrados: 5º, 37, 144",
+     "meta": "Manutenção"
+    },
+    {
+     "materia": "Direitos Humanos",
+     "conteudo": "Revisão dos princípios e tratados principais",
+     "meta": "Manutenção"
+    }
+   ]
+  }
+ ],
+ "topicos": [
+  {
+   "id": 1,
+   "materia": "Língua Portuguesa",
+   "unidade": "Compreensão de Texto",
+   "topico": "Interpretação e compreensão de textos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 2,
+   "materia": "Língua Portuguesa",
+   "unidade": "Compreensão de Texto",
+   "topico": "Tipologia textual (narrativo, descritivo, argumentativo, injuntivo)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 3,
+   "materia": "Língua Portuguesa",
+   "unidade": "Compreensão de Texto",
+   "topico": "Inferências e implícitos no texto",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 4,
+   "materia": "Língua Portuguesa",
+   "unidade": "Compreensão de Texto",
+   "topico": "Coesão e coerência textual",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 5,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Ortografia oficial (Acordo de 2009)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 6,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Acentuação gráfica",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 7,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Emprego das classes gramaticais",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 8,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Concordância verbal",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 9,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Concordância nominal",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 10,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Regência verbal e nominal",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 11,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Pontuação",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 12,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Crase",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 13,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Significação das palavras (sinonímia, antonímia, polissemia)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 14,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Figuras de linguagem",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 15,
+   "materia": "Língua Portuguesa",
+   "unidade": "Gramática",
+   "topico": "Funções da linguagem",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 16,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Proposições lógicas e conectivos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 17,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Tabela-verdade",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 18,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Negação de proposições",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 19,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Equivalências lógicas",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 20,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Argumentos dedutivos (validade e falácias)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 21,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Silogismos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 22,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Lógica quantitativa (conjuntos, diagramas de Venn)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 23,
+   "materia": "Raciocínio Lógico",
+   "unidade": "Lógica Proposicional",
+   "topico": "Raciocínio sequencial e padrões",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 24,
+   "materia": "Noções de Informática",
+   "unidade": "TI Básica",
+   "topico": "Conceitos de hardware e software",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 25,
+   "materia": "Noções de Informática",
+   "unidade": "TI Básica",
+   "topico": "Sistemas operacionais (Windows 10/11)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 26,
+   "materia": "Noções de Informática",
+   "unidade": "TI Básica",
+   "topico": "Editores de texto (Word) e planilhas (Excel) básico",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 27,
+   "materia": "Noções de Informática",
+   "unidade": "TI Básica",
+   "topico": "Internet, navegadores e e-mail",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 28,
+   "materia": "Noções de Informática",
+   "unidade": "TI Básica",
+   "topico": "Segurança da informação e LGPD",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 29,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Princípios fundamentais da República (Arts. 1º–4º)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 30,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Direitos e deveres individuais e coletivos (Art. 5º — completo)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 31,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Direitos sociais (Arts. 6º–11)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Set/26"
+  },
+  {
+   "id": 32,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Organização do Estado (Arts. 18–36)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 33,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Administração Pública — princípios (Art. 37)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 34,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Segurança Pública (Art. 144)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 35,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Ordem social — saúde, educação, seguridade",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 36,
+   "materia": "Direito Constitucional",
+   "unidade": "CF/88",
+   "topico": "Controle de constitucionalidade (noções)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 37,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Princípios da Administração Pública (LIMPE + outros)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 38,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Poderes administrativos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 39,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Atos administrativos (elementos, atributos, espécies)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 40,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Agentes públicos — cargo, emprego e função",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 41,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Regime disciplinar e responsabilidade",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 42,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Bens públicos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 43,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Improbidade administrativa (Lei 8.429/1992)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 44,
+   "materia": "Direito Administrativo",
+   "unidade": "Adm. Pública",
+   "topico": "Controle da Administração Pública",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 45,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Aplicação da lei penal e princípios",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 46,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Teoria geral do crime (conduta, tipicidade, ilicitude, culpabilidade)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 47,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Crimes dolosos e culposos, tentativa e consumação",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 48,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Excludentes de ilicitude e culpabilidade",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Out/26"
+  },
+  {
+   "id": 49,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Penas: espécies, aplicação e extinção da punibilidade",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 50,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Crimes contra a vida (Arts. 121–128 CP)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 51,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Crimes contra o patrimônio (Arts. 155–183 CP)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 52,
+   "materia": "Direito Penal",
+   "unidade": "D. Penal Geral e Especial",
+   "topico": "Crimes contra a Administração Pública",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 53,
+   "materia": "Direito Proc. Penal",
+   "unidade": "DPP",
+   "topico": "Inquérito policial: conceito, características e procedimentos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 54,
+   "materia": "Direito Proc. Penal",
+   "unidade": "DPP",
+   "topico": "Ação penal pública e privada",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 55,
+   "materia": "Direito Proc. Penal",
+   "unidade": "DPP",
+   "topico": "Prisão em flagrante delito",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 56,
+   "materia": "Direito Proc. Penal",
+   "unidade": "DPP",
+   "topico": "Medidas cautelares pessoais (prisão preventiva, temporária)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 57,
+   "materia": "Direito Proc. Penal",
+   "unidade": "DPP",
+   "topico": "Provas no processo penal",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 58,
+   "materia": "Direito Proc. Penal",
+   "unidade": "DPP",
+   "topico": "Nulidades processuais",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 59,
+   "materia": "Legislação GM",
+   "unidade": "Lei 13.022/2014",
+   "topico": "Estatuto Geral das GMs (Lei 13.022/2014) — princípios e competências",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 60,
+   "materia": "Legislação GM",
+   "unidade": "Lei 13.022/2014",
+   "topico": "Atribuições e limites de atuação da Guarda Municipal",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 61,
+   "materia": "Legislação GM",
+   "unidade": "Lei 13.022/2014",
+   "topico": "Vedações e deveres dos guardas (Lei 13.022/2014)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 62,
+   "materia": "Legislação GM",
+   "unidade": "Lei 13.022/2014",
+   "topico": "Armamento e uso progressivo da força",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 63,
+   "materia": "Legislação GM",
+   "unidade": "Lei 13.022/2014",
+   "topico": "Guarda Municipal e segurança pública municipal (Art. 144 §8 CF/88)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 64,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Conceito e gerações de direitos humanos",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 65,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Declaração Universal dos Direitos Humanos (DUDH)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 66,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Pacto de São José da Costa Rica (CADH)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 67,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Sistema interamericano de proteção dos DH",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 68,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Princípios de uso da força e armas de fogo (ONU)",
+   "prova": "GM",
+   "prioridade": "FASE 1 · BASE",
+   "mes": "Nov/26"
+  },
+  {
+   "id": 69,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Código de Conduta para funcionários responsáveis pela aplicação da lei (ONU)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 70,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Dignidade da pessoa humana na CF/88",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 71,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Proteção da criança e do adolescente (ECA — DH)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 72,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Proteção da mulher (Lei Maria da Penha — DH)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 73,
+   "materia": "Direitos Humanos",
+   "unidade": "Direitos Humanos Intl e Nacional",
+   "topico": "Direitos dos idosos (Estatuto do Idoso — DH)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 74,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "ECA — Estatuto da Criança e do Adolescente (Lei 8.069/1990)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 75,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "Estatuto do Idoso (Lei 10.741/2003)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 76,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "Lei Maria da Penha (Lei 11.340/2006)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 77,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "Lei de Drogas (Lei 11.343/2006)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 78,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "Estatuto do Desarmamento (Lei 10.826/2003)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Dez/26"
+  },
+  {
+   "id": 79,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "Lei de Tortura (Lei 9.455/1997)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Jan/27"
+  },
+  {
+   "id": 80,
+   "materia": "Legislação Extravagante",
+   "unidade": "Leis Especiais",
+   "topico": "Lei de Abuso de Autoridade (Lei 13.869/2019)",
+   "prova": "GM",
+   "prioridade": "FASE 2 · APROFUNDAR",
+   "mes": "Jan/27"
+  }
+ ],
+ "taf": {
+  "abdominal_rep": 25,
+  "flexao_rep": 20,
+  "corrida_100m_seg": 22,
+  "corrida_2000m": true,
+  "corrida_min": null,
+  "natacao_seg": null
+ }
+}
