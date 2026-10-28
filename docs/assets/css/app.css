@@ -1,4 +1,4 @@
-﻿/* ==========================================================================
+/* ==========================================================================
    Cronograma GM Maricá — sistema visual
    Paleta adaptada para a Guarda Municipal de Maricá.
    A cor codifica PARA QUAL FAMÍLIA de matéria serve.
@@ -137,7 +137,8 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .sidebar__marca b { display: block; font-size: 15px; letter-spacing: -.02em; }
 .sidebar__marca span { display: block; font-size: 11px; color: #9fb4cc; margin-top: 2px; }
 .sidebar__filete { height: 3px; background: var(--gold); }
-.sidebar__nav { flex: 1; overflow-y: auto; padding: 10px 8px; }
+.sidebar__nav { flex: 1; overflow-y: auto; scrollbar-width: none; -ms-overflow-style: none; padding: 10px 8px; }
+.sidebar__nav::-webkit-scrollbar { display: none; }
 
 .navlink {
   display: flex; align-items: center; gap: 10px;
@@ -179,7 +180,9 @@ button, input, select, textarea { font: inherit; color: inherit; }
     display: flex; position: fixed; bottom: 0; left: 0; right: 0; z-index: 30;
     background: var(--surface); border-top: 1px solid var(--line);
     padding-bottom: env(safe-area-inset-bottom);
+    overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none;
   }
+  .tabbar::-webkit-scrollbar { display: none; }
   .tabbar button {
     flex: 1; border: 0; background: none; cursor: pointer;
     padding: 7px 2px 6px; display: flex; flex-direction: column; align-items: center; gap: 2px;
@@ -243,14 +246,15 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .trilho-mat { width: 4px; border-radius: 2px; align-self: stretch; flex: 0 0 4px; }
 
 /* -------------------------------------------------------------------- tabela */
-.tabela-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-table.tb { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 13px; }
+.tabela-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none; }
+.tabela-wrap::-webkit-scrollbar { display: none; }
+table.tb { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 13px; font-variant-numeric: tabular-nums; }
 table.tb th {
   position: sticky; top: 0; z-index: 2;
   background: var(--navy-2); color: #fff; font-weight: 600; font-size: 11.5px;
   text-align: left; padding: 9px 10px; white-space: nowrap;
 }
-table.tb td { padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+table.tb td { padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; font-variant-numeric: tabular-nums; }
 table.tb tbody tr:nth-child(even) td { background: var(--surface-2); }
 table.tb tbody tr:hover td { background: var(--surface-3); }
 .num { text-align: right; font-variant-numeric: tabular-nums; }
@@ -291,7 +295,7 @@ input.mini { max-width: 78px; }
 .filtros select { max-width: 180px; }
 
 /* ---------------------------------------------------------------- grade dia */
-.grade { display: grid; gap: 1px; background: var(--line); border-radius: var(--radius-s); overflow: hidden; min-width: 940px; }
+.grade { display: grid; gap: 1px; background: var(--line); border-radius: var(--radius-s); overflow: hidden; min-width: 940px; font-variant-numeric: tabular-nums; }
 .grade__lin { display: grid; grid-template-columns: 92px 34px repeat(7, 1fr); gap: 1px; }
 .grade__h, .grade__ic, .grade__cel { background: var(--surface); padding: 7px 8px; font-size: 11.5px; }
 .grade__h { font-weight: 650; text-align: center; color: var(--ink-2); background: var(--surface-3); font-variant-numeric: tabular-nums; }
